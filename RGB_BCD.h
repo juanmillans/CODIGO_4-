@@ -1,0 +1,1 @@
+void RGB_BCD(int count_En,int *contador, int *contador_dec, int*re_pcs ) ;
